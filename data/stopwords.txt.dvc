@@ -1,0 +1,5 @@
+outs:
+- md5: 7f1a9a05de01fde8488d12a52c717213
+  size: 30714
+  hash: md5
+  path: stopwords.txt
